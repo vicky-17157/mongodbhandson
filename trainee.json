@@ -1,0 +1,97 @@
+[{
+  "_id": {
+    "$oid": "616d230f01594a332d069af5"
+  },
+  "name": "Surendra",
+  "address": "tidal park chennai",
+  "department": "software developer",
+  "education": "B-Tech"
+},{
+  "_id": {
+    "$oid": "616d234e01594a332d069af6"
+  },
+  "name": "Surya",
+  "address": "A-tech solutions neyveli",
+  "department": "software engineer",
+  "education": "B-Tech"
+},{
+  "_id": {
+    "$oid": "616d237a01594a332d069af7"
+  },
+  "name": "Sanjeev",
+  "address": "addon 365 vellore",
+  "department": "testing engineer",
+  "education": "B-Tech"
+},{
+  "_id": {
+    "$oid": "616d23c001594a332d069af8"
+  },
+  "name": "raghav",
+  "address": "Redback IT Solutions",
+  "department": "software engineer",
+  "education": "B-SC"
+},{
+  "_id": {
+    "$oid": "616d243f01594a332d069af9"
+  },
+  "name": "vijay",
+  "address": "Wibow IT Solutions",
+  "department": "finance",
+  "education": "IT"
+},{
+  "_id": {
+    "$oid": "616d247c01594a332d069afa"
+  },
+  "name": "saieesh",
+  "address": "Fubu IT Solutions",
+  "department": "cyber-security",
+  "education": "B-Tech CS"
+},{
+  "_id": {
+    "$oid": "616d24ad01594a332d069afb"
+  },
+  "name": "Vishnu",
+  "address": "Infolynx IT Solutions",
+  "department": "HR",
+  "education": "MBA"
+},{
+  "_id": {
+    "$oid": "616d24f001594a332d069afc"
+  },
+  "name": "karthik",
+  "address": "Inovgent IT Solutions",
+  "department": "lean operations",
+  "education": "MBA"
+},{
+  "_id": {
+    "$oid": "616d252401594a332d069afd"
+  },
+  "name": "aditya",
+  "address": "Orie IT Solutions",
+  "department": "marketing",
+  "education": "MBA"
+},{
+  "_id": {
+    "$oid": "616d255601594a332d069afe"
+  },
+  "name": "naveen",
+  "address": "Orchid IT Solutions",
+  "department": "finance",
+  "education": "MBA"
+},{
+  "_id": {
+    "$oid": "616d25e401594a332d069b00"
+  },
+  "name": "Surendra",
+  "address": "tidal park chennai",
+  "department": "R &D",
+  "education": "B-Tech"
+},{
+  "_id": {
+    "$oid": "616d265801594a332d069b01"
+  },
+  "name": "ashwin",
+  "address": "A-G IT Solutions",
+  "department": "software engineer",
+  "education": "B-Tech"
+}]
